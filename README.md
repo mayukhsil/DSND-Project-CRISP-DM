@@ -8,13 +8,13 @@
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 # Installation <a name="installation"></a>
-####The packages included in the Annaconda distribution, along with the below libraries must be installed before running.
-#####Tensorflow
-#####Sklearn
-#####Opencv
-#####Pandas
-#####Numpy
-#####Seaborn
+#### The packages included in the Annaconda distribution, along with the below libraries must be installed before running.
+##### Tensorflow
+##### Sklearn
+##### Opencv
+##### Pandas
+##### Numpy
+##### Seaborn
 
 # Project Motivation<a name="motivation"></a>
 
