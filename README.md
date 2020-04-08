@@ -8,8 +8,13 @@
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 # Installation <a name="installation"></a>
-
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+####The packages included in the Annaconda distribution, along with the below libraries must be installed before running.
+#####Tensorflow
+#####Sklearn
+#####Opencv
+#####Pandas
+#####Numpy
+#####Seaborn
 
 # Project Motivation<a name="motivation"></a>
 
