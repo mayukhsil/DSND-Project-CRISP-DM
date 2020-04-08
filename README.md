@@ -36,14 +36,14 @@ VGG16 and InceptionV3 model were utilized as base models (InceptionV3 was finall
 ![ROC curve of model](https://github.com/mayukhsil/DSND-Project-CRISP-DM-/blob/master/covid-roc.png)
 
 ### Classification Report: F1 Score, Precision, Recall
-![Classification Report](https://github.com/mayukhsil/covid19-detection/blob/master/cls_report.JPG)
+![Classification Report](https://github.com/mayukhsil/DSND-Project-CRISP-DM-/blob/master/cls_report.JPG)
 
 ### Confusion Matrix
 [20 1]
 
 [1 26]
 
-![Confusion matrix](https://github.com/hananshafi/DSND-Project-CRISP-DM-/blob/master/cmatrix.JPG)
+![Confusion matrix](https://github.com/mayukhsil/DSND-Project-CRISP-DM-/blob/master/cmatrix.JPG)
 
 # Result<a name="results"></a>
 ## Here is the the result of model on one of the samples:
