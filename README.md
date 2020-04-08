@@ -1,6 +1,25 @@
 # DSND-Project-CRISP-DM
-This code is for predicting COVID-19 from chest Xrays. The model currently has 95% accuracy.The python notebook attached contains the code for training and testing.
+### Table of Contents
 
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
+
+## Installation <a name="installation"></a>
+
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+
+## Project Motivation<a name="motivation"></a>
+
+For this project, I was interestested in using COVID-19 data from Kaggle to better understand:
+
+1. What Are The Top 10 Countries In Terms Of Confirmed Cases And Fatalities?
+2. What Are The Top States In Terms Of Confirmed Cases In China And US ?
+3. Which Country Is Able To Control The Spread Of COVID-19 ?
+
+## File Descriptions<a name="files"></a>
 
 # Dataset
 The dataset was collected from many sources. Currently this git repo is maintaining the COVID-19 Xray dataset:
@@ -26,7 +45,7 @@ VGG16 and InceptionV3 model were utilized as base models (InceptionV3 was finall
 
 ![Confusion matrix](https://github.com/hananshafi/covid19-detection/blob/master/cmatrix.JPG)
 
-
+## Result<a name="results"></a>
 # Here is the the result of model on one of the samples:
 
 ![X-Ray of COVID-19 Positive patient](https://github.com/hananshafi/covid19-detection/blob/master/covid-19.JPG)
